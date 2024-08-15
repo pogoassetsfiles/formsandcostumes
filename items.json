@@ -6,6 +6,8 @@
     "4": "ITEM_MASTER_BALL",
     "5": "ITEM_PREMIER_BALL",
     "6": "ITEM_BEAST_BALL",
+    "7": "ITEM_WILD_BALL",
+    "8": "ITEM_WILD_BALL_PREMIER",
     "101": "ITEM_POTION",
     "102": "ITEM_SUPER_POTION",
     "103": "ITEM_HYPER_POTION",
