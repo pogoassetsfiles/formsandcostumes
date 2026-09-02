@@ -1,0 +1,3826 @@
+{
+  "1": {
+    "released": true,
+    "shiny": true
+  },
+  "2": {
+    "released": true,
+    "shiny": true
+  },
+  "3": {
+    "released": true,
+    "shiny": true
+  },
+  "4": {
+    "released": true,
+    "shiny": true
+  },
+  "5": {
+    "released": true,
+    "shiny": true
+  },
+  "6": {
+    "released": true,
+    "shiny": true
+  },
+  "7": {
+    "released": true,
+    "shiny": true
+  },
+  "8": {
+    "released": true,
+    "shiny": true
+  },
+  "9": {
+    "released": true,
+    "shiny": true
+  },
+  "10": {
+    "released": true,
+    "shiny": true
+  },
+  "11": {
+    "released": true,
+    "shiny": true
+  },
+  "12": {
+    "released": true,
+    "shiny": true
+  },
+  "13": {
+    "released": true,
+    "shiny": true
+  },
+  "14": {
+    "released": true,
+    "shiny": true
+  },
+  "15": {
+    "released": true,
+    "shiny": true
+  },
+  "16": {
+    "released": true,
+    "shiny": true
+  },
+  "17": {
+    "released": true,
+    "shiny": true
+  },
+  "18": {
+    "released": true,
+    "shiny": true
+  },
+  "19": {
+    "released": true,
+    "shiny": true
+  },
+  "20": {
+    "released": true,
+    "shiny": true
+  },
+  "21": {
+    "released": true,
+    "shiny": true
+  },
+  "22": {
+    "released": true,
+    "shiny": true
+  },
+  "23": {
+    "released": true,
+    "shiny": true
+  },
+  "24": {
+    "released": true,
+    "shiny": true
+  },
+  "25": {
+    "released": true,
+    "shiny": true
+  },
+  "26": {
+    "released": true,
+    "shiny": true
+  },
+  "27": {
+    "released": true,
+    "shiny": true
+  },
+  "28": {
+    "released": true,
+    "shiny": true
+  },
+  "29": {
+    "released": true,
+    "shiny": true
+  },
+  "30": {
+    "released": true,
+    "shiny": true
+  },
+  "31": {
+    "released": true,
+    "shiny": true
+  },
+  "32": {
+    "released": true,
+    "shiny": true
+  },
+  "33": {
+    "released": true,
+    "shiny": true
+  },
+  "34": {
+    "released": true,
+    "shiny": true
+  },
+  "35": {
+    "released": true,
+    "shiny": true
+  },
+  "36": {
+    "released": true,
+    "shiny": true
+  },
+  "37": {
+    "released": true,
+    "shiny": true
+  },
+  "38": {
+    "released": true,
+    "shiny": true
+  },
+  "39": {
+    "released": true,
+    "shiny": true
+  },
+  "40": {
+    "released": true,
+    "shiny": true
+  },
+  "41": {
+    "released": true,
+    "shiny": true
+  },
+  "42": {
+    "released": true,
+    "shiny": true
+  },
+  "43": {
+    "released": true,
+    "shiny": true
+  },
+  "44": {
+    "released": true,
+    "shiny": true
+  },
+  "45": {
+    "released": true,
+    "shiny": true
+  },
+  "46": {
+    "released": true,
+    "shiny": true
+  },
+  "47": {
+    "released": true,
+    "shiny": true
+  },
+  "48": {
+    "released": true,
+    "shiny": true
+  },
+  "49": {
+    "released": true,
+    "shiny": true
+  },
+  "50": {
+    "released": true,
+    "shiny": true
+  },
+  "51": {
+    "released": true,
+    "shiny": true
+  },
+  "52": {
+    "released": true,
+    "shiny": true
+  },
+  "53": {
+    "released": true,
+    "shiny": true
+  },
+  "54": {
+    "released": true,
+    "shiny": true
+  },
+  "55": {
+    "released": true,
+    "shiny": true
+  },
+  "56": {
+    "released": true,
+    "shiny": true
+  },
+  "57": {
+    "released": true,
+    "shiny": true
+  },
+  "58": {
+    "released": true,
+    "shiny": true
+  },
+  "59": {
+    "released": true,
+    "shiny": true
+  },
+  "60": {
+    "released": true,
+    "shiny": true
+  },
+  "61": {
+    "released": true,
+    "shiny": true
+  },
+  "62": {
+    "released": true,
+    "shiny": true
+  },
+  "63": {
+    "released": true,
+    "shiny": true
+  },
+  "64": {
+    "released": true,
+    "shiny": true
+  },
+  "65": {
+    "released": true,
+    "shiny": true
+  },
+  "66": {
+    "released": true,
+    "shiny": true
+  },
+  "67": {
+    "released": true,
+    "shiny": true
+  },
+  "68": {
+    "released": true,
+    "shiny": true
+  },
+  "69": {
+    "released": true,
+    "shiny": true
+  },
+  "70": {
+    "released": true,
+    "shiny": true
+  },
+  "71": {
+    "released": true,
+    "shiny": true
+  },
+  "72": {
+    "released": true,
+    "shiny": true
+  },
+  "73": {
+    "released": true,
+    "shiny": true
+  },
+  "74": {
+    "released": true,
+    "shiny": true
+  },
+  "75": {
+    "released": true,
+    "shiny": true
+  },
+  "76": {
+    "released": true,
+    "shiny": true
+  },
+  "77": {
+    "released": true,
+    "shiny": true
+  },
+  "78": {
+    "released": true,
+    "shiny": true
+  },
+  "79": {
+    "released": true,
+    "shiny": true
+  },
+  "80": {
+    "released": true,
+    "shiny": true
+  },
+  "81": {
+    "released": true,
+    "shiny": true
+  },
+  "82": {
+    "released": true,
+    "shiny": true
+  },
+  "83": {
+    "released": true,
+    "shiny": true
+  },
+  "84": {
+    "released": true,
+    "shiny": true
+  },
+  "85": {
+    "released": true,
+    "shiny": true
+  },
+  "86": {
+    "released": true,
+    "shiny": true
+  },
+  "87": {
+    "released": true,
+    "shiny": true
+  },
+  "88": {
+    "released": true,
+    "shiny": true
+  },
+  "89": {
+    "released": true,
+    "shiny": true
+  },
+  "90": {
+    "released": true,
+    "shiny": true
+  },
+  "91": {
+    "released": true,
+    "shiny": true
+  },
+  "92": {
+    "released": true,
+    "shiny": true
+  },
+  "93": {
+    "released": true,
+    "shiny": true
+  },
+  "94": {
+    "released": true,
+    "shiny": true
+  },
+  "95": {
+    "released": true,
+    "shiny": true
+  },
+  "96": {
+    "released": true,
+    "shiny": true
+  },
+  "97": {
+    "released": true,
+    "shiny": true
+  },
+  "98": {
+    "released": true,
+    "shiny": true
+  },
+  "99": {
+    "released": true,
+    "shiny": true
+  },
+  "100": {
+    "released": true,
+    "shiny": true
+  },
+  "101": {
+    "released": true,
+    "shiny": true
+  },
+  "102": {
+    "released": true,
+    "shiny": true
+  },
+  "103": {
+    "released": true,
+    "shiny": true
+  },
+  "104": {
+    "released": true,
+    "shiny": true
+  },
+  "105": {
+    "released": true,
+    "shiny": true
+  },
+  "106": {
+    "released": true,
+    "shiny": true
+  },
+  "107": {
+    "released": true,
+    "shiny": true
+  },
+  "108": {
+    "released": true,
+    "shiny": true
+  },
+  "109": {
+    "released": true,
+    "shiny": true
+  },
+  "110": {
+    "released": true,
+    "shiny": true
+  },
+  "111": {
+    "released": true,
+    "shiny": true
+  },
+  "112": {
+    "released": true,
+    "shiny": true
+  },
+  "113": {
+    "released": true,
+    "shiny": true
+  },
+  "114": {
+    "released": true,
+    "shiny": true
+  },
+  "115": {
+    "released": true,
+    "shiny": true
+  },
+  "116": {
+    "released": true,
+    "shiny": true
+  },
+  "117": {
+    "released": true,
+    "shiny": true
+  },
+  "118": {
+    "released": true,
+    "shiny": true
+  },
+  "119": {
+    "released": true,
+    "shiny": true
+  },
+  "120": {
+    "released": true,
+    "shiny": true
+  },
+  "121": {
+    "released": true,
+    "shiny": true
+  },
+  "122": {
+    "released": true,
+    "shiny": true
+  },
+  "123": {
+    "released": true,
+    "shiny": true
+  },
+  "124": {
+    "released": true,
+    "shiny": true
+  },
+  "125": {
+    "released": true,
+    "shiny": true
+  },
+  "126": {
+    "released": true,
+    "shiny": true
+  },
+  "127": {
+    "released": true,
+    "shiny": true
+  },
+  "128": {
+    "released": true,
+    "shiny": true
+  },
+  "129": {
+    "released": true,
+    "shiny": true
+  },
+  "130": {
+    "released": true,
+    "shiny": true
+  },
+  "131": {
+    "released": true,
+    "shiny": true
+  },
+  "132": {
+    "released": true,
+    "shiny": true
+  },
+  "133": {
+    "released": true,
+    "shiny": true
+  },
+  "134": {
+    "released": true,
+    "shiny": true
+  },
+  "135": {
+    "released": true,
+    "shiny": true
+  },
+  "136": {
+    "released": true,
+    "shiny": true
+  },
+  "137": {
+    "released": true,
+    "shiny": true
+  },
+  "138": {
+    "released": true,
+    "shiny": true
+  },
+  "139": {
+    "released": true,
+    "shiny": true
+  },
+  "140": {
+    "released": true,
+    "shiny": true
+  },
+  "141": {
+    "released": true,
+    "shiny": true
+  },
+  "142": {
+    "released": true,
+    "shiny": true
+  },
+  "143": {
+    "released": true,
+    "shiny": true
+  },
+  "144": {
+    "released": true,
+    "shiny": true
+  },
+  "145": {
+    "released": true,
+    "shiny": true
+  },
+  "146": {
+    "released": true,
+    "shiny": true
+  },
+  "147": {
+    "released": true,
+    "shiny": true
+  },
+  "148": {
+    "released": true,
+    "shiny": true
+  },
+  "149": {
+    "released": true,
+    "shiny": true
+  },
+  "150": {
+    "released": true,
+    "shiny": true
+  },
+  "151": {
+    "released": true,
+    "shiny": true
+  },
+  "152": {
+    "released": true,
+    "shiny": true
+  },
+  "153": {
+    "released": true,
+    "shiny": true
+  },
+  "154": {
+    "released": true,
+    "shiny": true
+  },
+  "155": {
+    "released": true,
+    "shiny": true
+  },
+  "156": {
+    "released": true,
+    "shiny": true
+  },
+  "157": {
+    "released": true,
+    "shiny": true
+  },
+  "158": {
+    "released": true,
+    "shiny": true
+  },
+  "159": {
+    "released": true,
+    "shiny": true
+  },
+  "160": {
+    "released": true,
+    "shiny": true
+  },
+  "161": {
+    "released": true,
+    "shiny": true
+  },
+  "162": {
+    "released": true,
+    "shiny": true
+  },
+  "163": {
+    "released": true,
+    "shiny": true
+  },
+  "164": {
+    "released": true,
+    "shiny": true
+  },
+  "165": {
+    "released": true,
+    "shiny": true
+  },
+  "166": {
+    "released": true,
+    "shiny": true
+  },
+  "167": {
+    "released": true,
+    "shiny": true
+  },
+  "168": {
+    "released": true,
+    "shiny": true
+  },
+  "169": {
+    "released": true,
+    "shiny": true
+  },
+  "170": {
+    "released": true,
+    "shiny": true
+  },
+  "171": {
+    "released": true,
+    "shiny": true
+  },
+  "172": {
+    "released": true,
+    "shiny": true
+  },
+  "173": {
+    "released": true,
+    "shiny": true
+  },
+  "174": {
+    "released": true,
+    "shiny": true
+  },
+  "175": {
+    "released": true,
+    "shiny": true
+  },
+  "176": {
+    "released": true,
+    "shiny": true
+  },
+  "177": {
+    "released": true,
+    "shiny": true
+  },
+  "178": {
+    "released": true,
+    "shiny": true
+  },
+  "179": {
+    "released": true,
+    "shiny": true
+  },
+  "180": {
+    "released": true,
+    "shiny": true
+  },
+  "181": {
+    "released": true,
+    "shiny": true
+  },
+  "182": {
+    "released": true,
+    "shiny": true
+  },
+  "183": {
+    "released": true,
+    "shiny": true
+  },
+  "184": {
+    "released": true,
+    "shiny": true
+  },
+  "185": {
+    "released": true,
+    "shiny": true
+  },
+  "186": {
+    "released": true,
+    "shiny": true
+  },
+  "187": {
+    "released": true,
+    "shiny": true
+  },
+  "188": {
+    "released": true,
+    "shiny": true
+  },
+  "189": {
+    "released": true,
+    "shiny": true
+  },
+  "190": {
+    "released": true,
+    "shiny": true
+  },
+  "191": {
+    "released": true,
+    "shiny": true
+  },
+  "192": {
+    "released": true,
+    "shiny": true
+  },
+  "193": {
+    "released": true,
+    "shiny": true
+  },
+  "194": {
+    "released": true,
+    "shiny": true
+  },
+  "195": {
+    "released": true,
+    "shiny": true
+  },
+  "196": {
+    "released": true,
+    "shiny": true
+  },
+  "197": {
+    "released": true,
+    "shiny": true
+  },
+  "198": {
+    "released": true,
+    "shiny": true
+  },
+  "199": {
+    "released": true,
+    "shiny": true
+  },
+  "200": {
+    "released": true,
+    "shiny": true
+  },
+  "201": {
+    "released": true,
+    "shiny": true
+  },
+  "202": {
+    "released": true,
+    "shiny": true
+  },
+  "203": {
+    "released": true,
+    "shiny": true
+  },
+  "204": {
+    "released": true,
+    "shiny": true
+  },
+  "205": {
+    "released": true,
+    "shiny": true
+  },
+  "206": {
+    "released": true,
+    "shiny": true
+  },
+  "207": {
+    "released": true,
+    "shiny": true
+  },
+  "208": {
+    "released": true,
+    "shiny": true
+  },
+  "209": {
+    "released": true,
+    "shiny": true
+  },
+  "210": {
+    "released": true,
+    "shiny": true
+  },
+  "211": {
+    "released": true,
+    "shiny": true
+  },
+  "212": {
+    "released": true,
+    "shiny": true
+  },
+  "213": {
+    "released": true,
+    "shiny": true
+  },
+  "214": {
+    "released": true,
+    "shiny": true
+  },
+  "215": {
+    "released": true,
+    "shiny": true
+  },
+  "216": {
+    "released": true,
+    "shiny": true
+  },
+  "217": {
+    "released": true,
+    "shiny": true
+  },
+  "218": {
+    "released": true,
+    "shiny": true
+  },
+  "219": {
+    "released": true,
+    "shiny": true
+  },
+  "220": {
+    "released": true,
+    "shiny": true
+  },
+  "221": {
+    "released": true,
+    "shiny": true
+  },
+  "222": {
+    "released": true,
+    "shiny": true
+  },
+  "223": {
+    "released": true,
+    "shiny": true
+  },
+  "224": {
+    "released": true,
+    "shiny": true
+  },
+  "225": {
+    "released": true,
+    "shiny": true
+  },
+  "226": {
+    "released": true,
+    "shiny": true
+  },
+  "227": {
+    "released": true,
+    "shiny": true
+  },
+  "228": {
+    "released": true,
+    "shiny": true
+  },
+  "229": {
+    "released": true,
+    "shiny": true
+  },
+  "230": {
+    "released": true,
+    "shiny": true
+  },
+  "231": {
+    "released": true,
+    "shiny": true
+  },
+  "232": {
+    "released": true,
+    "shiny": true
+  },
+  "233": {
+    "released": true,
+    "shiny": true
+  },
+  "234": {
+    "released": true,
+    "shiny": true
+  },
+  "235": {
+    "released": true,
+    "shiny": true
+  },
+  "236": {
+    "released": true,
+    "shiny": true
+  },
+  "237": {
+    "released": true,
+    "shiny": true
+  },
+  "238": {
+    "released": true,
+    "shiny": true
+  },
+  "239": {
+    "released": true,
+    "shiny": true
+  },
+  "240": {
+    "released": true,
+    "shiny": true
+  },
+  "241": {
+    "released": true,
+    "shiny": true
+  },
+  "242": {
+    "released": true,
+    "shiny": true
+  },
+  "243": {
+    "released": true,
+    "shiny": true
+  },
+  "244": {
+    "released": true,
+    "shiny": true
+  },
+  "245": {
+    "released": true,
+    "shiny": true
+  },
+  "246": {
+    "released": true,
+    "shiny": true
+  },
+  "247": {
+    "released": true,
+    "shiny": true
+  },
+  "248": {
+    "released": true,
+    "shiny": true
+  },
+  "249": {
+    "released": true,
+    "shiny": true
+  },
+  "250": {
+    "released": true,
+    "shiny": true
+  },
+  "251": {
+    "released": true,
+    "shiny": true
+  },
+  "252": {
+    "released": true,
+    "shiny": true
+  },
+  "253": {
+    "released": true,
+    "shiny": true
+  },
+  "254": {
+    "released": true,
+    "shiny": true
+  },
+  "255": {
+    "released": true,
+    "shiny": true
+  },
+  "256": {
+    "released": true,
+    "shiny": true
+  },
+  "257": {
+    "released": true,
+    "shiny": true
+  },
+  "258": {
+    "released": true,
+    "shiny": true
+  },
+  "259": {
+    "released": true,
+    "shiny": true
+  },
+  "260": {
+    "released": true,
+    "shiny": true
+  },
+  "261": {
+    "released": true,
+    "shiny": true
+  },
+  "262": {
+    "released": true,
+    "shiny": true
+  },
+  "263": {
+    "released": true,
+    "shiny": true
+  },
+  "264": {
+    "released": true,
+    "shiny": true
+  },
+  "265": {
+    "released": true,
+    "shiny": true
+  },
+  "266": {
+    "released": true,
+    "shiny": true
+  },
+  "267": {
+    "released": true,
+    "shiny": true
+  },
+  "268": {
+    "released": true,
+    "shiny": true
+  },
+  "269": {
+    "released": true,
+    "shiny": true
+  },
+  "270": {
+    "released": true,
+    "shiny": true
+  },
+  "271": {
+    "released": true,
+    "shiny": true
+  },
+  "272": {
+    "released": true,
+    "shiny": true
+  },
+  "273": {
+    "released": true,
+    "shiny": true
+  },
+  "274": {
+    "released": true,
+    "shiny": true
+  },
+  "275": {
+    "released": true,
+    "shiny": true
+  },
+  "276": {
+    "released": true,
+    "shiny": true
+  },
+  "277": {
+    "released": true,
+    "shiny": true
+  },
+  "278": {
+    "released": true,
+    "shiny": true
+  },
+  "279": {
+    "released": true,
+    "shiny": true
+  },
+  "280": {
+    "released": true,
+    "shiny": true
+  },
+  "281": {
+    "released": true,
+    "shiny": true
+  },
+  "282": {
+    "released": true,
+    "shiny": true
+  },
+  "283": {
+    "released": true,
+    "shiny": true
+  },
+  "284": {
+    "released": true,
+    "shiny": true
+  },
+  "285": {
+    "released": true,
+    "shiny": true
+  },
+  "286": {
+    "released": true,
+    "shiny": true
+  },
+  "287": {
+    "released": true,
+    "shiny": true
+  },
+  "288": {
+    "released": true,
+    "shiny": true
+  },
+  "289": {
+    "released": true,
+    "shiny": true
+  },
+  "290": {
+    "released": true,
+    "shiny": true
+  },
+  "291": {
+    "released": true,
+    "shiny": true
+  },
+  "292": {
+    "released": true,
+    "shiny": true
+  },
+  "293": {
+    "released": true,
+    "shiny": true
+  },
+  "294": {
+    "released": true,
+    "shiny": true
+  },
+  "295": {
+    "released": true,
+    "shiny": true
+  },
+  "296": {
+    "released": true,
+    "shiny": true
+  },
+  "297": {
+    "released": true,
+    "shiny": true
+  },
+  "298": {
+    "released": true,
+    "shiny": true
+  },
+  "299": {
+    "released": true,
+    "shiny": true
+  },
+  "300": {
+    "released": true,
+    "shiny": true
+  },
+  "301": {
+    "released": true,
+    "shiny": true
+  },
+  "302": {
+    "released": true,
+    "shiny": true
+  },
+  "303": {
+    "released": true,
+    "shiny": true
+  },
+  "304": {
+    "released": true,
+    "shiny": true
+  },
+  "305": {
+    "released": true,
+    "shiny": true
+  },
+  "306": {
+    "released": true,
+    "shiny": true
+  },
+  "307": {
+    "released": true,
+    "shiny": true
+  },
+  "308": {
+    "released": true,
+    "shiny": true
+  },
+  "309": {
+    "released": true,
+    "shiny": true
+  },
+  "310": {
+    "released": true,
+    "shiny": true
+  },
+  "311": {
+    "released": true,
+    "shiny": true
+  },
+  "312": {
+    "released": true,
+    "shiny": true
+  },
+  "313": {
+    "released": true,
+    "shiny": true
+  },
+  "314": {
+    "released": true,
+    "shiny": true
+  },
+  "315": {
+    "released": true,
+    "shiny": true
+  },
+  "316": {
+    "released": true,
+    "shiny": true
+  },
+  "317": {
+    "released": true,
+    "shiny": true
+  },
+  "318": {
+    "released": true,
+    "shiny": true
+  },
+  "319": {
+    "released": true,
+    "shiny": true
+  },
+  "320": {
+    "released": true,
+    "shiny": true
+  },
+  "321": {
+    "released": true,
+    "shiny": true
+  },
+  "322": {
+    "released": true,
+    "shiny": true
+  },
+  "323": {
+    "released": true,
+    "shiny": true
+  },
+  "324": {
+    "released": true,
+    "shiny": true
+  },
+  "325": {
+    "released": true,
+    "shiny": true
+  },
+  "326": {
+    "released": true,
+    "shiny": true
+  },
+  "327": {
+    "released": true,
+    "shiny": true
+  },
+  "328": {
+    "released": true,
+    "shiny": true
+  },
+  "329": {
+    "released": true,
+    "shiny": true
+  },
+  "330": {
+    "released": true,
+    "shiny": true
+  },
+  "331": {
+    "released": true,
+    "shiny": true
+  },
+  "332": {
+    "released": true,
+    "shiny": true
+  },
+  "333": {
+    "released": true,
+    "shiny": true
+  },
+  "334": {
+    "released": true,
+    "shiny": true
+  },
+  "335": {
+    "released": true,
+    "shiny": true
+  },
+  "336": {
+    "released": true,
+    "shiny": true
+  },
+  "337": {
+    "released": true,
+    "shiny": true
+  },
+  "338": {
+    "released": true,
+    "shiny": true
+  },
+  "339": {
+    "released": true,
+    "shiny": true
+  },
+  "340": {
+    "released": true,
+    "shiny": true
+  },
+  "341": {
+    "released": true,
+    "shiny": true
+  },
+  "342": {
+    "released": true,
+    "shiny": true
+  },
+  "343": {
+    "released": true,
+    "shiny": true
+  },
+  "344": {
+    "released": true,
+    "shiny": true
+  },
+  "345": {
+    "released": true,
+    "shiny": true
+  },
+  "346": {
+    "released": true,
+    "shiny": true
+  },
+  "347": {
+    "released": true,
+    "shiny": true
+  },
+  "348": {
+    "released": true,
+    "shiny": true
+  },
+  "349": {
+    "released": true,
+    "shiny": true
+  },
+  "350": {
+    "released": true,
+    "shiny": true
+  },
+  "351": {
+    "released": true,
+    "shiny": true
+  },
+  "352": {
+    "released": true,
+    "shiny": true
+  },
+  "353": {
+    "released": true,
+    "shiny": true
+  },
+  "354": {
+    "released": true,
+    "shiny": true
+  },
+  "355": {
+    "released": true,
+    "shiny": true
+  },
+  "356": {
+    "released": true,
+    "shiny": true
+  },
+  "357": {
+    "released": true,
+    "shiny": true
+  },
+  "358": {
+    "released": true,
+    "shiny": true
+  },
+  "359": {
+    "released": true,
+    "shiny": true
+  },
+  "360": {
+    "released": true,
+    "shiny": true
+  },
+  "361": {
+    "released": true,
+    "shiny": true
+  },
+  "362": {
+    "released": true,
+    "shiny": true
+  },
+  "363": {
+    "released": true,
+    "shiny": true
+  },
+  "364": {
+    "released": true,
+    "shiny": true
+  },
+  "365": {
+    "released": true,
+    "shiny": true
+  },
+  "366": {
+    "released": true,
+    "shiny": true
+  },
+  "367": {
+    "released": true,
+    "shiny": true
+  },
+  "368": {
+    "released": true,
+    "shiny": true
+  },
+  "369": {
+    "released": true,
+    "shiny": true
+  },
+  "370": {
+    "released": true,
+    "shiny": true
+  },
+  "371": {
+    "released": true,
+    "shiny": true
+  },
+  "372": {
+    "released": true,
+    "shiny": true
+  },
+  "373": {
+    "released": true,
+    "shiny": true
+  },
+  "374": {
+    "released": true,
+    "shiny": true
+  },
+  "375": {
+    "released": true,
+    "shiny": true
+  },
+  "376": {
+    "released": true,
+    "shiny": true
+  },
+  "377": {
+    "released": true,
+    "shiny": true
+  },
+  "378": {
+    "released": true,
+    "shiny": true
+  },
+  "379": {
+    "released": true,
+    "shiny": true
+  },
+  "380": {
+    "released": true,
+    "shiny": true
+  },
+  "381": {
+    "released": true,
+    "shiny": true
+  },
+  "382": {
+    "released": true,
+    "shiny": true
+  },
+  "383": {
+    "released": true,
+    "shiny": true
+  },
+  "384": {
+    "released": true,
+    "shiny": true
+  },
+  "385": {
+    "released": true,
+    "shiny": true
+  },
+  "386": {
+    "released": true,
+    "shiny": true
+  },
+  "387": {
+    "released": true,
+    "shiny": true
+  },
+  "388": {
+    "released": true,
+    "shiny": true
+  },
+  "389": {
+    "released": true,
+    "shiny": true
+  },
+  "390": {
+    "released": true,
+    "shiny": true
+  },
+  "391": {
+    "released": true,
+    "shiny": true
+  },
+  "392": {
+    "released": true,
+    "shiny": true
+  },
+  "393": {
+    "released": true,
+    "shiny": true
+  },
+  "394": {
+    "released": true,
+    "shiny": true
+  },
+  "395": {
+    "released": true,
+    "shiny": true
+  },
+  "396": {
+    "released": true,
+    "shiny": true
+  },
+  "397": {
+    "released": true,
+    "shiny": true
+  },
+  "398": {
+    "released": true,
+    "shiny": true
+  },
+  "399": {
+    "released": true,
+    "shiny": true
+  },
+  "400": {
+    "released": true,
+    "shiny": true
+  },
+  "401": {
+    "released": true,
+    "shiny": true
+  },
+  "402": {
+    "released": true,
+    "shiny": true
+  },
+  "403": {
+    "released": true,
+    "shiny": true
+  },
+  "404": {
+    "released": true,
+    "shiny": true
+  },
+  "405": {
+    "released": true,
+    "shiny": true
+  },
+  "406": {
+    "released": true,
+    "shiny": true
+  },
+  "407": {
+    "released": true,
+    "shiny": true
+  },
+  "408": {
+    "released": true,
+    "shiny": true
+  },
+  "409": {
+    "released": true,
+    "shiny": true
+  },
+  "410": {
+    "released": true,
+    "shiny": true
+  },
+  "411": {
+    "released": true,
+    "shiny": true
+  },
+  "412": {
+    "released": true,
+    "shiny": true
+  },
+  "413": {
+    "released": true,
+    "shiny": true
+  },
+  "414": {
+    "released": true,
+    "shiny": true
+  },
+  "415": {
+    "released": true,
+    "shiny": true
+  },
+  "416": {
+    "released": true,
+    "shiny": true
+  },
+  "417": {
+    "released": true,
+    "shiny": true
+  },
+  "418": {
+    "released": true,
+    "shiny": true
+  },
+  "419": {
+    "released": true,
+    "shiny": true
+  },
+  "420": {
+    "released": true,
+    "shiny": true
+  },
+  "421": {
+    "released": true,
+    "shiny": true
+  },
+  "422": {
+    "released": true,
+    "shiny": true
+  },
+  "423": {
+    "released": true,
+    "shiny": true
+  },
+  "424": {
+    "released": true,
+    "shiny": true
+  },
+  "425": {
+    "released": true,
+    "shiny": true
+  },
+  "426": {
+    "released": true,
+    "shiny": true
+  },
+  "427": {
+    "released": true,
+    "shiny": true
+  },
+  "428": {
+    "released": true,
+    "shiny": true
+  },
+  "429": {
+    "released": true,
+    "shiny": true
+  },
+  "430": {
+    "released": true,
+    "shiny": true
+  },
+  "431": {
+    "released": true,
+    "shiny": true
+  },
+  "432": {
+    "released": true,
+    "shiny": true
+  },
+  "433": {
+    "released": true,
+    "shiny": true
+  },
+  "434": {
+    "released": true,
+    "shiny": true
+  },
+  "435": {
+    "released": true,
+    "shiny": true
+  },
+  "436": {
+    "released": true,
+    "shiny": true
+  },
+  "437": {
+    "released": true,
+    "shiny": true
+  },
+  "438": {
+    "released": true,
+    "shiny": true
+  },
+  "439": {
+    "released": true,
+    "shiny": true
+  },
+  "440": {
+    "released": true,
+    "shiny": true
+  },
+  "441": {
+    "released": true,
+    "shiny": true
+  },
+  "442": {
+    "released": true,
+    "shiny": true
+  },
+  "443": {
+    "released": true,
+    "shiny": true
+  },
+  "444": {
+    "released": true,
+    "shiny": true
+  },
+  "445": {
+    "released": true,
+    "shiny": true
+  },
+  "446": {
+    "released": true,
+    "shiny": true
+  },
+  "447": {
+    "released": true,
+    "shiny": true
+  },
+  "448": {
+    "released": true,
+    "shiny": true
+  },
+  "449": {
+    "released": true,
+    "shiny": true
+  },
+  "450": {
+    "released": true,
+    "shiny": true
+  },
+  "451": {
+    "released": true,
+    "shiny": true
+  },
+  "452": {
+    "released": true,
+    "shiny": true
+  },
+  "453": {
+    "released": true,
+    "shiny": true
+  },
+  "454": {
+    "released": true,
+    "shiny": true
+  },
+  "455": {
+    "released": true,
+    "shiny": true
+  },
+  "456": {
+    "released": true,
+    "shiny": true
+  },
+  "457": {
+    "released": true,
+    "shiny": true
+  },
+  "458": {
+    "released": true,
+    "shiny": true
+  },
+  "459": {
+    "released": true,
+    "shiny": true
+  },
+  "460": {
+    "released": true,
+    "shiny": true
+  },
+  "461": {
+    "released": true,
+    "shiny": true
+  },
+  "462": {
+    "released": true,
+    "shiny": true
+  },
+  "463": {
+    "released": true,
+    "shiny": true
+  },
+  "464": {
+    "released": true,
+    "shiny": true
+  },
+  "465": {
+    "released": true,
+    "shiny": true
+  },
+  "466": {
+    "released": true,
+    "shiny": true
+  },
+  "467": {
+    "released": true,
+    "shiny": true
+  },
+  "468": {
+    "released": true,
+    "shiny": true
+  },
+  "469": {
+    "released": true,
+    "shiny": true
+  },
+  "470": {
+    "released": true,
+    "shiny": true
+  },
+  "471": {
+    "released": true,
+    "shiny": true
+  },
+  "472": {
+    "released": true,
+    "shiny": true
+  },
+  "473": {
+    "released": true,
+    "shiny": true
+  },
+  "474": {
+    "released": true,
+    "shiny": true
+  },
+  "475": {
+    "released": true,
+    "shiny": true
+  },
+  "476": {
+    "released": true,
+    "shiny": true
+  },
+  "477": {
+    "released": true,
+    "shiny": true
+  },
+  "478": {
+    "released": true,
+    "shiny": true
+  },
+  "479": {
+    "released": true,
+    "shiny": true
+  },
+  "480": {
+    "released": true,
+    "shiny": true
+  },
+  "481": {
+    "released": true,
+    "shiny": true
+  },
+  "482": {
+    "released": true,
+    "shiny": true
+  },
+  "483": {
+    "released": true,
+    "shiny": true
+  },
+  "484": {
+    "released": true,
+    "shiny": true
+  },
+  "485": {
+    "released": true,
+    "shiny": true
+  },
+  "486": {
+    "released": true,
+    "shiny": true
+  },
+  "487": {
+    "released": true,
+    "shiny": true
+  },
+  "488": {
+    "released": true,
+    "shiny": true
+  },
+  "491": {
+    "released": true,
+    "shiny": true
+  },
+  "492": {
+    "released": true,
+    "shiny": true
+  },
+  "494": {
+    "released": true,
+    "shiny": false
+  },
+  "495": {
+    "released": true,
+    "shiny": true
+  },
+  "496": {
+    "released": true,
+    "shiny": true
+  },
+  "497": {
+    "released": true,
+    "shiny": true
+  },
+  "498": {
+    "released": true,
+    "shiny": true
+  },
+  "499": {
+    "released": true,
+    "shiny": true
+  },
+  "500": {
+    "released": true,
+    "shiny": true
+  },
+  "501": {
+    "released": true,
+    "shiny": true
+  },
+  "502": {
+    "released": true,
+    "shiny": true
+  },
+  "503": {
+    "released": true,
+    "shiny": true
+  },
+  "504": {
+    "released": true,
+    "shiny": true
+  },
+  "505": {
+    "released": true,
+    "shiny": true
+  },
+  "506": {
+    "released": true,
+    "shiny": true
+  },
+  "507": {
+    "released": true,
+    "shiny": true
+  },
+  "508": {
+    "released": true,
+    "shiny": true
+  },
+  "509": {
+    "released": true,
+    "shiny": true
+  },
+  "510": {
+    "released": true,
+    "shiny": true
+  },
+  "511": {
+    "released": true,
+    "shiny": true
+  },
+  "512": {
+    "released": true,
+    "shiny": true
+  },
+  "513": {
+    "released": true,
+    "shiny": true
+  },
+  "514": {
+    "released": true,
+    "shiny": true
+  },
+  "515": {
+    "released": true,
+    "shiny": true
+  },
+  "516": {
+    "released": true,
+    "shiny": true
+  },
+  "517": {
+    "released": true,
+    "shiny": true
+  },
+  "518": {
+    "released": true,
+    "shiny": true
+  },
+  "519": {
+    "released": true,
+    "shiny": true
+  },
+  "520": {
+    "released": true,
+    "shiny": true
+  },
+  "521": {
+    "released": true,
+    "shiny": true
+  },
+  "522": {
+    "released": true,
+    "shiny": true
+  },
+  "523": {
+    "released": true,
+    "shiny": true
+  },
+  "524": {
+    "released": true,
+    "shiny": true
+  },
+  "525": {
+    "released": true,
+    "shiny": true
+  },
+  "526": {
+    "released": true,
+    "shiny": true
+  },
+  "527": {
+    "released": true,
+    "shiny": true
+  },
+  "528": {
+    "released": true,
+    "shiny": true
+  },
+  "529": {
+    "released": true,
+    "shiny": true
+  },
+  "530": {
+    "released": true,
+    "shiny": true
+  },
+  "531": {
+    "released": true,
+    "shiny": true
+  },
+  "532": {
+    "released": true,
+    "shiny": true
+  },
+  "533": {
+    "released": true,
+    "shiny": true
+  },
+  "534": {
+    "released": true,
+    "shiny": true
+  },
+  "535": {
+    "released": true,
+    "shiny": true
+  },
+  "536": {
+    "released": true,
+    "shiny": true
+  },
+  "537": {
+    "released": true,
+    "shiny": true
+  },
+  "538": {
+    "released": true,
+    "shiny": true
+  },
+  "539": {
+    "released": true,
+    "shiny": true
+  },
+  "540": {
+    "released": true,
+    "shiny": true
+  },
+  "541": {
+    "released": true,
+    "shiny": true
+  },
+  "542": {
+    "released": true,
+    "shiny": true
+  },
+  "543": {
+    "released": true,
+    "shiny": true
+  },
+  "544": {
+    "released": true,
+    "shiny": true
+  },
+  "545": {
+    "released": true,
+    "shiny": true
+  },
+  "546": {
+    "released": true,
+    "shiny": true
+  },
+  "547": {
+    "released": true,
+    "shiny": true
+  },
+  "548": {
+    "released": true,
+    "shiny": true
+  },
+  "549": {
+    "released": true,
+    "shiny": true
+  },
+  "550": {
+    "released": true,
+    "shiny": true
+  },
+  "551": {
+    "released": true,
+    "shiny": true
+  },
+  "552": {
+    "released": true,
+    "shiny": true
+  },
+  "553": {
+    "released": true,
+    "shiny": true
+  },
+  "554": {
+    "released": true,
+    "shiny": true
+  },
+  "555": {
+    "released": true,
+    "shiny": true
+  },
+  "556": {
+    "released": true,
+    "shiny": true
+  },
+  "557": {
+    "released": true,
+    "shiny": true
+  },
+  "558": {
+    "released": true,
+    "shiny": true
+  },
+  "559": {
+    "released": true,
+    "shiny": true
+  },
+  "560": {
+    "released": true,
+    "shiny": true
+  },
+  "561": {
+    "released": true,
+    "shiny": true
+  },
+  "562": {
+    "released": true,
+    "shiny": true
+  },
+  "563": {
+    "released": true,
+    "shiny": true
+  },
+  "564": {
+    "released": true,
+    "shiny": true
+  },
+  "565": {
+    "released": true,
+    "shiny": true
+  },
+  "566": {
+    "released": true,
+    "shiny": true
+  },
+  "567": {
+    "released": true,
+    "shiny": true
+  },
+  "568": {
+    "released": true,
+    "shiny": true
+  },
+  "569": {
+    "released": true,
+    "shiny": true
+  },
+  "570": {
+    "released": true,
+    "shiny": true
+  },
+  "571": {
+    "released": true,
+    "shiny": true
+  },
+  "572": {
+    "released": true,
+    "shiny": true
+  },
+  "573": {
+    "released": true,
+    "shiny": true
+  },
+  "574": {
+    "released": true,
+    "shiny": true
+  },
+  "575": {
+    "released": true,
+    "shiny": true
+  },
+  "576": {
+    "released": true,
+    "shiny": true
+  },
+  "577": {
+    "released": true,
+    "shiny": true
+  },
+  "578": {
+    "released": true,
+    "shiny": true
+  },
+  "579": {
+    "released": true,
+    "shiny": true
+  },
+  "580": {
+    "released": true,
+    "shiny": true
+  },
+  "581": {
+    "released": true,
+    "shiny": true
+  },
+  "582": {
+    "released": true,
+    "shiny": true
+  },
+  "583": {
+    "released": true,
+    "shiny": true
+  },
+  "584": {
+    "released": true,
+    "shiny": true
+  },
+  "585": {
+    "released": true,
+    "shiny": true
+  },
+  "586": {
+    "released": true,
+    "shiny": true
+  },
+  "587": {
+    "released": true,
+    "shiny": true
+  },
+  "588": {
+    "released": true,
+    "shiny": true
+  },
+  "589": {
+    "released": true,
+    "shiny": true
+  },
+  "590": {
+    "released": true,
+    "shiny": true
+  },
+  "591": {
+    "released": true,
+    "shiny": true
+  },
+  "592": {
+    "released": true,
+    "shiny": true
+  },
+  "593": {
+    "released": true,
+    "shiny": true
+  },
+  "594": {
+    "released": true,
+    "shiny": true
+  },
+  "595": {
+    "released": true,
+    "shiny": true
+  },
+  "596": {
+    "released": true,
+    "shiny": true
+  },
+  "597": {
+    "released": true,
+    "shiny": true
+  },
+  "598": {
+    "released": true,
+    "shiny": true
+  },
+  "599": {
+    "released": true,
+    "shiny": true
+  },
+  "600": {
+    "released": true,
+    "shiny": true
+  },
+  "601": {
+    "released": true,
+    "shiny": true
+  },
+  "602": {
+    "released": true,
+    "shiny": true
+  },
+  "603": {
+    "released": true,
+    "shiny": true
+  },
+  "604": {
+    "released": true,
+    "shiny": true
+  },
+  "605": {
+    "released": true,
+    "shiny": true
+  },
+  "606": {
+    "released": true,
+    "shiny": true
+  },
+  "607": {
+    "released": true,
+    "shiny": true
+  },
+  "608": {
+    "released": true,
+    "shiny": true
+  },
+  "609": {
+    "released": true,
+    "shiny": true
+  },
+  "610": {
+    "released": true,
+    "shiny": true
+  },
+  "611": {
+    "released": true,
+    "shiny": true
+  },
+  "612": {
+    "released": true,
+    "shiny": true
+  },
+  "613": {
+    "released": true,
+    "shiny": true
+  },
+  "614": {
+    "released": true,
+    "shiny": true
+  },
+  "615": {
+    "released": true,
+    "shiny": true
+  },
+  "616": {
+    "released": true,
+    "shiny": true
+  },
+  "617": {
+    "released": true,
+    "shiny": true
+  },
+  "618": {
+    "released": true,
+    "shiny": true
+  },
+  "619": {
+    "released": true,
+    "shiny": true
+  },
+  "620": {
+    "released": true,
+    "shiny": true
+  },
+  "621": {
+    "released": true,
+    "shiny": true
+  },
+  "622": {
+    "released": true,
+    "shiny": true
+  },
+  "623": {
+    "released": true,
+    "shiny": true
+  },
+  "624": {
+    "released": true,
+    "shiny": true
+  },
+  "625": {
+    "released": true,
+    "shiny": true
+  },
+  "626": {
+    "released": true,
+    "shiny": true
+  },
+  "627": {
+    "released": true,
+    "shiny": true
+  },
+  "628": {
+    "released": true,
+    "shiny": true
+  },
+  "629": {
+    "released": true,
+    "shiny": true
+  },
+  "630": {
+    "released": true,
+    "shiny": true
+  },
+  "631": {
+    "released": true,
+    "shiny": true
+  },
+  "632": {
+    "released": true,
+    "shiny": true
+  },
+  "633": {
+    "released": true,
+    "shiny": true
+  },
+  "634": {
+    "released": true,
+    "shiny": true
+  },
+  "635": {
+    "released": true,
+    "shiny": true
+  },
+  "636": {
+    "released": true,
+    "shiny": true
+  },
+  "637": {
+    "released": true,
+    "shiny": true
+  },
+  "638": {
+    "released": true,
+    "shiny": true
+  },
+  "639": {
+    "released": true,
+    "shiny": true
+  },
+  "640": {
+    "released": true,
+    "shiny": true
+  },
+  "641": {
+    "released": true,
+    "shiny": true
+  },
+  "642": {
+    "released": true,
+    "shiny": true
+  },
+  "643": {
+    "released": true,
+    "shiny": true
+  },
+  "644": {
+    "released": true,
+    "shiny": true
+  },
+  "645": {
+    "released": true,
+    "shiny": true
+  },
+  "646": {
+    "released": true,
+    "shiny": true
+  },
+  "647": {
+    "released": true,
+    "shiny": true
+  },
+  "648": {
+    "released": true,
+    "shiny": true
+  },
+  "649": {
+    "released": true,
+    "shiny": true
+  },
+  "650": {
+    "released": true,
+    "shiny": true
+  },
+  "651": {
+    "released": true,
+    "shiny": true
+  },
+  "652": {
+    "released": true,
+    "shiny": true
+  },
+  "653": {
+    "released": true,
+    "shiny": true
+  },
+  "654": {
+    "released": true,
+    "shiny": true
+  },
+  "655": {
+    "released": true,
+    "shiny": true
+  },
+  "656": {
+    "released": true,
+    "shiny": true
+  },
+  "657": {
+    "released": true,
+    "shiny": true
+  },
+  "658": {
+    "released": true,
+    "shiny": true
+  },
+  "659": {
+    "released": true,
+    "shiny": true
+  },
+  "660": {
+    "released": true,
+    "shiny": true
+  },
+  "661": {
+    "released": true,
+    "shiny": true
+  },
+  "662": {
+    "released": true,
+    "shiny": true
+  },
+  "663": {
+    "released": true,
+    "shiny": true
+  },
+  "664": {
+    "released": true,
+    "shiny": true
+  },
+  "665": {
+    "released": true,
+    "shiny": true
+  },
+  "666": {
+    "released": true,
+    "shiny": true
+  },
+  "667": {
+    "released": true,
+    "shiny": true
+  },
+  "668": {
+    "released": true,
+    "shiny": true
+  },
+  "669": {
+    "released": true,
+    "shiny": true
+  },
+  "670": {
+    "released": true,
+    "shiny": true
+  },
+  "671": {
+    "released": true,
+    "shiny": true
+  },
+  "672": {
+    "released": true,
+    "shiny": true
+  },
+  "673": {
+    "released": true,
+    "shiny": true
+  },
+  "674": {
+    "released": true,
+    "shiny": true
+  },
+  "675": {
+    "released": true,
+    "shiny": true
+  },
+  "676": {
+    "released": true,
+    "shiny": true
+  },
+  "677": {
+    "released": true,
+    "shiny": true
+  },
+  "678": {
+    "released": true,
+    "shiny": true
+  },
+  "679": {
+    "released": true,
+    "shiny": true
+  },
+  "680": {
+    "released": true,
+    "shiny": true
+  },
+  "681": {
+    "released": true,
+    "shiny": true
+  },
+  "682": {
+    "released": true,
+    "shiny": true
+  },
+  "683": {
+    "released": true,
+    "shiny": true
+  },
+  "684": {
+    "released": true,
+    "shiny": true
+  },
+  "685": {
+    "released": true,
+    "shiny": true
+  },
+  "686": {
+    "released": true,
+    "shiny": true
+  },
+  "687": {
+    "released": true,
+    "shiny": true
+  },
+  "688": {
+    "released": true,
+    "shiny": true
+  },
+  "689": {
+    "released": true,
+    "shiny": true
+  },
+  "690": {
+    "released": true,
+    "shiny": true
+  },
+  "691": {
+    "released": true,
+    "shiny": true
+  },
+  "692": {
+    "released": true,
+    "shiny": true
+  },
+  "693": {
+    "released": true,
+    "shiny": true
+  },
+  "694": {
+    "released": true,
+    "shiny": true
+  },
+  "695": {
+    "released": true,
+    "shiny": true
+  },
+  "696": {
+    "released": true,
+    "shiny": true
+  },
+  "697": {
+    "released": true,
+    "shiny": true
+  },
+  "698": {
+    "released": true,
+    "shiny": true
+  },
+  "699": {
+    "released": true,
+    "shiny": true
+  },
+  "700": {
+    "released": true,
+    "shiny": true
+  },
+  "701": {
+    "released": true,
+    "shiny": true
+  },
+  "702": {
+    "released": true,
+    "shiny": true
+  },
+  "703": {
+    "released": true,
+    "shiny": true
+  },
+  "704": {
+    "released": true,
+    "shiny": true
+  },
+  "705": {
+    "released": true,
+    "shiny": true
+  },
+  "706": {
+    "released": true,
+    "shiny": true
+  },
+  "707": {
+    "released": true,
+    "shiny": true
+  },
+  "708": {
+    "released": true,
+    "shiny": true
+  },
+  "709": {
+    "released": true,
+    "shiny": true
+  },
+  "710": {
+    "released": true,
+    "shiny": true
+  },
+  "711": {
+    "released": true,
+    "shiny": true
+  },
+  "712": {
+    "released": true,
+    "shiny": true
+  },
+  "713": {
+    "released": true,
+    "shiny": true
+  },
+  "714": {
+    "released": true,
+    "shiny": true
+  },
+  "715": {
+    "released": true,
+    "shiny": true
+  },
+  "716": {
+    "released": true,
+    "shiny": true
+  },
+  "717": {
+    "released": true,
+    "shiny": true
+  },
+  "718": {
+    "released": true,
+    "shiny": false
+  },
+  "719": {
+    "released": true,
+    "shiny": true
+  },
+  "720": {
+    "released": true,
+    "shiny": false
+  },
+  "721": {
+    "released": true,
+    "shiny": false
+  },
+  "722": {
+    "released": true,
+    "shiny": true
+  },
+  "723": {
+    "released": true,
+    "shiny": true
+  },
+  "724": {
+    "released": true,
+    "shiny": true
+  },
+  "725": {
+    "released": true,
+    "shiny": true
+  },
+  "726": {
+    "released": true,
+    "shiny": true
+  },
+  "727": {
+    "released": true,
+    "shiny": true
+  },
+  "728": {
+    "released": true,
+    "shiny": true
+  },
+  "729": {
+    "released": true,
+    "shiny": true
+  },
+  "730": {
+    "released": true,
+    "shiny": true
+  },
+  "731": {
+    "released": true,
+    "shiny": true
+  },
+  "732": {
+    "released": true,
+    "shiny": true
+  },
+  "733": {
+    "released": true,
+    "shiny": true
+  },
+  "734": {
+    "released": true,
+    "shiny": true
+  },
+  "735": {
+    "released": true,
+    "shiny": true
+  },
+  "736": {
+    "released": true,
+    "shiny": true
+  },
+  "737": {
+    "released": true,
+    "shiny": true
+  },
+  "738": {
+    "released": true,
+    "shiny": true
+  },
+  "739": {
+    "released": true,
+    "shiny": true
+  },
+  "740": {
+    "released": true,
+    "shiny": true
+  },
+  "741": {
+    "released": true,
+    "shiny": true
+  },
+  "742": {
+    "released": true,
+    "shiny": true
+  },
+  "743": {
+    "released": true,
+    "shiny": true
+  },
+  "744": {
+    "released": true,
+    "shiny": true
+  },
+  "745": {
+    "released": true,
+    "shiny": true
+  },
+  "747": {
+    "released": true,
+    "shiny": true
+  },
+  "748": {
+    "released": true,
+    "shiny": true
+  },
+  "749": {
+    "released": true,
+    "shiny": true
+  },
+  "750": {
+    "released": true,
+    "shiny": true
+  },
+  "751": {
+    "released": true,
+    "shiny": true
+  },
+  "752": {
+    "released": true,
+    "shiny": true
+  },
+  "753": {
+    "released": true,
+    "shiny": true
+  },
+  "754": {
+    "released": true,
+    "shiny": true
+  },
+  "755": {
+    "released": true,
+    "shiny": true
+  },
+  "756": {
+    "released": true,
+    "shiny": true
+  },
+  "757": {
+    "released": true,
+    "shiny": true
+  },
+  "758": {
+    "released": true,
+    "shiny": true
+  },
+  "759": {
+    "released": true,
+    "shiny": true
+  },
+  "760": {
+    "released": true,
+    "shiny": true
+  },
+  "761": {
+    "released": true,
+    "shiny": true
+  },
+  "762": {
+    "released": true,
+    "shiny": true
+  },
+  "763": {
+    "released": true,
+    "shiny": true
+  },
+  "764": {
+    "released": true,
+    "shiny": false
+  },
+  "765": {
+    "released": true,
+    "shiny": true
+  },
+  "766": {
+    "released": true,
+    "shiny": true
+  },
+  "767": {
+    "released": true,
+    "shiny": true
+  },
+  "768": {
+    "released": true,
+    "shiny": true
+  },
+  "769": {
+    "released": true,
+    "shiny": true
+  },
+  "770": {
+    "released": true,
+    "shiny": true
+  },
+  "775": {
+    "released": true,
+    "shiny": true
+  },
+  "776": {
+    "released": true,
+    "shiny": true
+  },
+  "777": {
+    "released": true,
+    "shiny": true
+  },
+  "778": {
+    "released": true,
+    "shiny": false
+  },
+  "779": {
+    "released": true,
+    "shiny": true
+  },
+  "780": {
+    "released": true,
+    "shiny": true
+  },
+  "781": {
+    "released": true,
+    "shiny": true
+  },
+  "782": {
+    "released": true,
+    "shiny": true
+  },
+  "783": {
+    "released": true,
+    "shiny": true
+  },
+  "784": {
+    "released": true,
+    "shiny": true
+  },
+  "785": {
+    "released": true,
+    "shiny": true
+  },
+  "786": {
+    "released": true,
+    "shiny": true
+  },
+  "787": {
+    "released": true,
+    "shiny": true
+  },
+  "788": {
+    "released": true,
+    "shiny": true
+  },
+  "789": {
+    "released": true,
+    "shiny": false
+  },
+  "790": {
+    "released": true,
+    "shiny": false
+  },
+  "791": {
+    "released": true,
+    "shiny": true
+  },
+  "792": {
+    "released": true,
+    "shiny": true
+  },
+  "793": {
+    "released": true,
+    "shiny": true
+  },
+  "794": {
+    "released": true,
+    "shiny": true
+  },
+  "795": {
+    "released": true,
+    "shiny": true
+  },
+  "796": {
+    "released": true,
+    "shiny": true
+  },
+  "797": {
+    "released": true,
+    "shiny": true
+  },
+  "798": {
+    "released": true,
+    "shiny": true
+  },
+  "799": {
+    "released": true,
+    "shiny": true
+  },
+  "800": {
+    "released": true,
+    "shiny": true
+  },
+  "802": {
+    "released": true,
+    "shiny": false
+  },
+  "803": {
+    "released": true,
+    "shiny": false
+  },
+  "804": {
+    "released": true,
+    "shiny": false
+  },
+  "805": {
+    "released": true,
+    "shiny": true
+  },
+  "806": {
+    "released": true,
+    "shiny": true
+  },
+  "807": {
+    "released": true,
+    "shiny": false
+  },
+  "808": {
+    "released": true,
+    "shiny": true
+  },
+  "809": {
+    "released": true,
+    "shiny": true
+  },
+  "810": {
+    "released": true,
+    "shiny": true
+  },
+  "811": {
+    "released": true,
+    "shiny": true
+  },
+  "812": {
+    "released": true,
+    "shiny": true
+  },
+  "813": {
+    "released": true,
+    "shiny": true
+  },
+  "814": {
+    "released": true,
+    "shiny": true
+  },
+  "815": {
+    "released": true,
+    "shiny": true
+  },
+  "816": {
+    "released": true,
+    "shiny": true
+  },
+  "817": {
+    "released": true,
+    "shiny": true
+  },
+  "818": {
+    "released": true,
+    "shiny": true
+  },
+  "819": {
+    "released": true,
+    "shiny": true
+  },
+  "820": {
+    "released": true,
+    "shiny": true
+  },
+  "821": {
+    "released": true,
+    "shiny": true
+  },
+  "822": {
+    "released": true,
+    "shiny": true
+  },
+  "823": {
+    "released": true,
+    "shiny": true
+  },
+  "824": {
+    "released": true,
+    "shiny": false
+  },
+  "825": {
+    "released": true,
+    "shiny": false
+  },
+  "826": {
+    "released": true,
+    "shiny": false
+  },
+  "827": {
+    "released": true,
+    "shiny": true
+  },
+  "828": {
+    "released": true,
+    "shiny": true
+  },
+  "829": {
+    "released": true,
+    "shiny": false
+  },
+  "830": {
+    "released": true,
+    "shiny": false
+  },
+  "831": {
+    "released": true,
+    "shiny": true
+  },
+  "832": {
+    "released": true,
+    "shiny": true
+  },
+  "835": {
+    "released": true,
+    "shiny": false
+  },
+  "836": {
+    "released": true,
+    "shiny": false
+  },
+  "837": {
+    "released": true,
+    "shiny": false
+  },
+  "838": {
+    "released": true,
+    "shiny": false
+  },
+  "839": {
+    "released": true,
+    "shiny": false
+  },
+  "840": {
+    "released": true,
+    "shiny": false
+  },
+  "841": {
+    "released": true,
+    "shiny": false
+  },
+  "842": {
+    "released": true,
+    "shiny": false
+  },
+  "843": {
+    "released": true,
+    "shiny": false
+  },
+  "844": {
+    "released": true,
+    "shiny": false
+  },
+  "845": {
+    "released": true,
+    "shiny": false
+  },
+  "846": {
+    "released": true,
+    "shiny": false
+  },
+  "847": {
+    "released": true,
+    "shiny": false
+  },
+  "848": {
+    "released": true,
+    "shiny": true
+  },
+  "849": {
+    "released": true,
+    "shiny": true
+  },
+  "850": {
+    "released": true,
+    "shiny": true
+  },
+  "851": {
+    "released": true,
+    "shiny": true
+  },
+  "852": {
+    "released": true,
+    "shiny": false
+  },
+  "853": {
+    "released": true,
+    "shiny": false
+  },
+  "854": {
+    "released": true,
+    "shiny": true
+  },
+  "855": {
+    "released": true,
+    "shiny": true
+  },
+  "856": {
+    "released": true,
+    "shiny": true
+  },
+  "857": {
+    "released": true,
+    "shiny": true
+  },
+  "858": {
+    "released": true,
+    "shiny": true
+  },
+  "859": {
+    "released": true,
+    "shiny": true
+  },
+  "860": {
+    "released": true,
+    "shiny": true
+  },
+  "861": {
+    "released": true,
+    "shiny": true
+  },
+  "862": {
+    "released": true,
+    "shiny": true
+  },
+  "863": {
+    "released": true,
+    "shiny": true
+  },
+  "864": {
+    "released": true,
+    "shiny": true
+  },
+  "865": {
+    "released": true,
+    "shiny": true
+  },
+  "866": {
+    "released": true,
+    "shiny": true
+  },
+  "867": {
+    "released": true,
+    "shiny": true
+  },
+  "870": {
+    "released": true,
+    "shiny": true
+  },
+  "872": {
+    "released": true,
+    "shiny": true
+  },
+  "873": {
+    "released": true,
+    "shiny": true
+  },
+  "874": {
+    "released": true,
+    "shiny": false
+  },
+  "876": {
+    "released": true,
+    "shiny": true
+  },
+  "877": {
+    "released": true,
+    "shiny": true
+  },
+  "884": {
+    "released": true,
+    "shiny": true
+  },
+  "885": {
+    "released": true,
+    "shiny": false
+  },
+  "886": {
+    "released": true,
+    "shiny": false
+  },
+  "887": {
+    "released": true,
+    "shiny": false
+  },
+  "888": {
+    "released": true,
+    "shiny": true
+  },
+  "889": {
+    "released": true,
+    "shiny": true
+  },
+  "890": {
+    "released": true,
+    "shiny": false
+  },
+  "891": {
+    "released": true,
+    "shiny": false
+  },
+  "892": {
+    "released": true,
+    "shiny": false
+  },
+  "893": {
+    "released": true,
+    "shiny": false
+  },
+  "894": {
+    "released": true,
+    "shiny": true
+  },
+  "895": {
+    "released": true,
+    "shiny": true
+  },
+  "899": {
+    "released": true,
+    "shiny": true
+  },
+  "900": {
+    "released": true,
+    "shiny": true
+  },
+  "901": {
+    "released": true,
+    "shiny": true
+  },
+  "903": {
+    "released": true,
+    "shiny": true
+  },
+  "904": {
+    "released": true,
+    "shiny": true
+  },
+  "905": {
+    "released": true,
+    "shiny": false
+  },
+  "906": {
+    "released": true,
+    "shiny": true
+  },
+  "907": {
+    "released": true,
+    "shiny": true
+  },
+  "908": {
+    "released": true,
+    "shiny": true
+  },
+  "909": {
+    "released": true,
+    "shiny": true
+  },
+  "910": {
+    "released": true,
+    "shiny": true
+  },
+  "911": {
+    "released": true,
+    "shiny": true
+  },
+  "912": {
+    "released": true,
+    "shiny": true
+  },
+  "913": {
+    "released": true,
+    "shiny": true
+  },
+  "914": {
+    "released": true,
+    "shiny": true
+  },
+  "915": {
+    "released": true,
+    "shiny": true
+  },
+  "916": {
+    "released": true,
+    "shiny": true
+  },
+  "917": {
+    "released": true,
+    "shiny": false
+  },
+  "918": {
+    "released": true,
+    "shiny": false
+  },
+  "919": {
+    "released": true,
+    "shiny": true
+  },
+  "920": {
+    "released": true,
+    "shiny": true
+  },
+  "921": {
+    "released": true,
+    "shiny": true
+  },
+  "922": {
+    "released": true,
+    "shiny": true
+  },
+  "923": {
+    "released": true,
+    "shiny": true
+  },
+  "924": {
+    "released": true,
+    "shiny": true
+  },
+  "925": {
+    "released": true,
+    "shiny": true
+  },
+  "926": {
+    "released": true,
+    "shiny": true
+  },
+  "927": {
+    "released": true,
+    "shiny": true
+  },
+  "928": {
+    "released": true,
+    "shiny": true
+  },
+  "929": {
+    "released": true,
+    "shiny": true
+  },
+  "930": {
+    "released": true,
+    "shiny": true
+  },
+  "931": {
+    "released": true,
+    "shiny": false
+  },
+  "932": {
+    "released": true,
+    "shiny": false
+  },
+  "933": {
+    "released": true,
+    "shiny": false
+  },
+  "934": {
+    "released": true,
+    "shiny": false
+  },
+  "935": {
+    "released": true,
+    "shiny": true
+  },
+  "936": {
+    "released": true,
+    "shiny": true
+  },
+  "937": {
+    "released": true,
+    "shiny": true
+  },
+  "938": {
+    "released": true,
+    "shiny": true
+  },
+  "939": {
+    "released": true,
+    "shiny": true
+  },
+  "940": {
+    "released": true,
+    "shiny": false
+  },
+  "941": {
+    "released": true,
+    "shiny": false
+  },
+  "942": {
+    "released": true,
+    "shiny": false
+  },
+  "943": {
+    "released": true,
+    "shiny": false
+  },
+  "944": {
+    "released": true,
+    "shiny": false
+  },
+  "945": {
+    "released": true,
+    "shiny": false
+  },
+  "948": {
+    "released": true,
+    "shiny": true
+  },
+  "949": {
+    "released": true,
+    "shiny": true
+  },
+  "950": {
+    "released": true,
+    "shiny": false
+  },
+  "955": {
+    "released": true,
+    "shiny": false
+  },
+  "956": {
+    "released": true,
+    "shiny": false
+  },
+  "957": {
+    "released": true,
+    "shiny": true
+  },
+  "958": {
+    "released": true,
+    "shiny": true
+  },
+  "959": {
+    "released": true,
+    "shiny": true
+  },
+  "960": {
+    "released": true,
+    "shiny": true
+  },
+  "961": {
+    "released": true,
+    "shiny": true
+  },
+  "962": {
+    "released": true,
+    "shiny": true
+  },
+  "965": {
+    "released": true,
+    "shiny": true
+  },
+  "966": {
+    "released": true,
+    "shiny": true
+  },
+  "968": {
+    "released": true,
+    "shiny": true
+  },
+  "969": {
+    "released": true,
+    "shiny": false
+  },
+  "970": {
+    "released": true,
+    "shiny": false
+  },
+  "971": {
+    "released": true,
+    "shiny": false
+  },
+  "972": {
+    "released": true,
+    "shiny": false
+  },
+  "973": {
+    "released": true,
+    "shiny": true
+  },
+  "974": {
+    "released": true,
+    "shiny": true
+  },
+  "975": {
+    "released": true,
+    "shiny": true
+  },
+  "977": {
+    "released": true,
+    "shiny": true
+  },
+  "978": {
+    "released": true,
+    "shiny": false
+  },
+  "979": {
+    "released": true,
+    "shiny": true
+  },
+  "980": {
+    "released": true,
+    "shiny": true
+  },
+  "982": {
+    "released": true,
+    "shiny": true
+  },
+  "983": {
+    "released": true,
+    "shiny": true
+  },
+  "996": {
+    "released": true,
+    "shiny": true
+  },
+  "997": {
+    "released": true,
+    "shiny": true
+  },
+  "998": {
+    "released": true,
+    "shiny": true
+  },
+  "999": {
+    "released": true,
+    "shiny": true
+  },
+  "1000": {
+    "released": true,
+    "shiny": true
+  },
+  "1011": {
+    "released": true,
+    "shiny": false
+  },
+  "1012": {
+    "released": true,
+    "shiny": false
+  },
+  "1013": {
+    "released": true,
+    "shiny": false
+  },
+  "1019": {
+    "released": true,
+    "shiny": false
+  }
+}
