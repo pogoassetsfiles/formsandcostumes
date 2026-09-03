@@ -1,3826 +1,4782 @@
 {
   "1": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "2": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "3": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "4": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "5": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "6": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "7": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "8": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "9": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "10": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "11": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "12": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "13": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "14": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "15": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "16": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "17": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "18": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "19": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "20": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "21": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "22": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "23": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "24": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "25": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "26": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "27": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "28": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "29": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "30": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "31": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "32": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "33": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "34": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "35": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "36": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "37": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "38": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "39": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "40": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "41": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "42": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "43": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "44": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "45": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "46": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "47": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "48": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "49": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "50": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "51": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "52": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "53": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "54": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "55": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "56": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "57": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "58": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "59": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "60": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "61": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "62": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "63": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "64": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "65": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "66": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "67": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "68": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "69": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "70": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "71": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "72": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "73": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "74": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "75": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "76": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "77": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "78": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "79": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "80": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "81": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "82": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "83": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "84": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "85": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "86": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "87": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "88": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "89": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "90": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "91": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "92": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "93": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "94": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "95": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "96": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "97": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "98": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "99": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "100": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "101": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "102": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "103": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "104": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "105": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "106": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "107": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "108": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "109": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "110": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "111": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "112": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "113": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "114": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "115": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "116": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "117": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "118": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "119": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "120": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "121": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "122": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "123": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "124": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "125": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "126": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "127": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "128": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "129": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "130": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "131": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "132": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "133": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "134": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "135": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "136": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "137": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "138": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "139": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "140": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "141": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "142": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "143": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "144": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "145": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "146": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "147": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "148": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "149": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "150": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "151": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "152": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "153": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "154": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "155": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "156": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "157": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "158": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "159": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "160": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "161": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "162": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "163": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "164": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "165": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "166": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "167": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "168": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "169": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "170": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "171": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "172": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "173": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "174": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "175": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "176": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "177": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "178": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "179": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "180": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "181": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "182": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "183": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "184": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "185": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "186": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "187": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "188": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "189": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "190": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "191": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "192": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "193": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "194": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "195": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "196": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "197": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "198": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "199": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "200": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "201": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "202": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "203": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "204": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "205": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "206": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "207": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "208": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "209": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "210": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "211": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "212": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "213": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "214": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "215": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "216": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "217": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "218": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "219": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "220": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "221": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "222": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "223": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "224": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "225": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "226": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "227": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "228": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "229": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "230": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "231": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "232": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "233": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "234": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "235": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "236": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "237": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "238": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "239": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "240": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "241": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "242": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "243": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "244": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "245": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "246": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "247": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "248": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "249": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "250": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "251": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "252": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "253": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "254": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "255": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "256": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "257": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "258": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "259": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "260": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "261": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "262": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "263": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "264": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "265": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "266": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "267": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "268": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "269": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "270": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "271": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "272": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "273": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "274": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "275": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "276": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "277": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "278": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "279": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "280": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "281": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "282": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "283": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "284": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "285": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "286": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "287": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "288": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "289": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "290": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "291": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "292": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "293": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "294": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "295": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "296": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "297": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "298": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "299": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "300": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "301": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "302": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "303": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "304": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "305": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "306": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "307": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "308": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "309": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "310": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "311": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "312": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "313": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "314": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "315": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "316": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "317": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "318": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "319": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "320": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "321": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "322": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "323": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "324": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "325": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "326": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "327": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "328": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "329": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "330": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "331": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "332": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "333": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "334": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "335": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "336": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "337": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "338": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "339": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "340": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "341": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "342": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "343": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "344": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "345": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "346": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "347": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "348": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "349": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "350": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "351": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "352": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "353": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "354": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "355": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "356": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "357": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "358": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "359": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "360": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "361": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "362": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "363": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "364": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "365": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "366": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "367": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "368": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "369": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "370": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "371": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "372": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "373": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "374": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "375": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "376": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "377": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "378": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "379": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "380": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "381": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "382": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "383": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "384": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "385": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "386": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "387": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "388": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "389": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "390": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "391": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "392": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "393": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "394": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "395": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "396": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "397": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "398": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "399": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "400": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "401": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "402": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "403": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "404": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "405": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "406": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "407": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "408": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "409": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "410": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "411": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "412": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "413": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "414": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "415": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "416": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "417": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "418": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "419": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "420": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "421": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "422": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "423": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "424": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "425": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "426": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "427": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "428": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "429": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "430": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "431": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "432": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "433": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "434": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "435": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "436": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "437": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "438": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "439": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "440": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "441": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "442": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "443": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "444": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "445": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "446": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "447": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "448": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "449": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "450": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "451": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "452": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "453": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "454": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "455": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "456": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "457": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "458": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "459": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "460": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "461": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "462": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "463": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "464": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "465": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "466": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "467": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "468": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "469": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "470": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "471": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "472": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "473": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "474": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "475": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "476": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "477": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "478": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "479": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "480": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "481": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "482": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "483": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "484": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "485": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "486": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "487": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "488": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "491": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "492": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "494": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "495": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "496": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "497": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "498": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "499": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "500": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "501": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "502": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "503": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "504": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "505": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "506": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "507": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "508": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "509": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "510": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "511": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "512": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "513": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "514": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "515": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "516": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "517": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "518": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "519": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "520": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "521": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "522": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "523": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "524": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "525": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "526": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "527": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "528": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "529": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "530": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "531": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "532": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "533": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "534": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "535": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "536": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "537": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "538": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "539": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "540": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "541": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "542": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "543": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "544": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "545": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "546": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "547": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "548": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "549": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "550": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "551": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "552": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "553": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "554": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "555": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "556": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "557": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "558": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "559": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "560": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "561": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "562": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "563": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "564": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "565": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "566": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "567": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "568": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "569": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "570": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "571": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "572": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "573": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "574": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "575": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "576": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "577": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "578": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "579": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "580": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "581": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "582": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "583": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "584": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "585": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "586": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "587": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "588": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "589": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "590": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "591": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "592": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "593": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "594": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "595": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "596": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "597": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "598": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "599": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "600": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "601": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "602": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "603": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "604": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "605": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "606": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "607": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "608": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "609": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "610": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "611": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "612": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "613": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "614": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "615": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "616": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "617": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "618": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "619": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "620": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "621": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "622": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "623": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "624": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "625": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "626": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "627": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "628": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "629": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "630": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "631": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "632": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "633": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "634": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "635": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "636": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "637": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "638": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "639": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "640": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "641": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "642": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "643": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "644": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "645": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "646": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "647": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "648": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "649": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "650": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "651": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "652": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "653": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "654": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "655": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "656": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "657": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "658": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "659": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "660": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "661": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "662": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "663": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "664": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "665": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "666": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "667": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "668": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "669": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "670": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "671": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "672": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "673": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "674": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "675": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "676": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "677": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "678": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "679": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "680": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "681": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "682": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "683": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "684": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "685": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "686": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "687": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "688": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "689": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "690": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "691": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "692": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "693": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "694": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "695": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "696": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "697": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "698": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "699": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "700": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "701": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "702": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "703": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "704": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "705": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "706": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "707": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "708": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "709": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "710": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "711": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "712": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "713": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "714": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "715": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "716": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "717": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "718": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "719": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "720": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "721": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "722": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "723": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "724": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "725": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "726": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "727": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "728": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "729": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "730": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "731": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "732": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "733": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "734": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "735": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "736": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "737": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "738": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "739": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "740": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "741": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "742": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "743": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "744": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "745": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "747": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "748": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "749": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "750": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "751": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "752": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "753": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "754": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "755": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "756": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "757": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "758": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "759": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "760": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "761": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "762": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "763": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "764": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "765": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "766": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "767": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "768": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "769": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "770": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "775": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "776": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "777": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "778": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "779": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "780": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "781": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "782": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "783": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "784": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "785": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "786": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "787": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "788": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "789": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "790": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "791": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "792": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "793": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "794": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "795": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "796": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "797": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "798": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "799": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "800": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "802": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "803": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "804": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "805": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "806": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "807": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "808": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "809": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "810": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "811": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "812": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "813": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "814": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "815": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "816": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "817": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "818": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "819": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "820": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "821": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "822": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "823": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "824": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "825": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "826": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "827": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "828": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "829": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "830": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "831": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "832": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "835": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "836": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "837": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "838": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "839": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "840": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "841": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "842": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "843": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "844": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "845": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "846": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "847": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "848": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "849": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "850": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "851": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "852": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "853": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "854": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "855": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "856": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "857": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "858": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "859": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "860": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "861": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "862": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "863": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "864": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "865": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "866": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "867": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "870": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "872": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "873": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "874": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "876": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "877": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "884": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "885": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "886": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "887": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "888": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "889": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "890": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "891": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "892": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "893": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "894": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "895": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "899": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "900": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "901": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "903": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "904": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "905": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "906": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "907": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "908": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "909": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "910": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "911": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "912": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "913": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "914": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "915": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "916": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "917": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "918": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "919": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "920": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "921": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "922": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "923": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "924": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "925": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "926": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "927": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "928": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "929": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "930": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "931": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "932": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "933": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "934": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "935": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "936": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "937": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "938": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "939": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "940": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "941": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "942": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "943": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "944": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "945": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "948": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "949": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "950": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "955": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "956": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "957": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "958": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "959": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "960": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "961": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "962": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "965": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "966": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "968": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "969": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "970": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "971": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "972": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "973": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "974": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "975": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "977": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "978": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "979": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": true
   },
   "980": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "982": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "983": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "996": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "997": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "998": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "999": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "1000": {
     "released": true,
-    "shiny": true
+    "shiny": true,
+    "shadow": false
   },
   "1011": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "1012": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "1013": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   },
   "1019": {
     "released": true,
-    "shiny": false
+    "shiny": false,
+    "shadow": false
   }
 }
