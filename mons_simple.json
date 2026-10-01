@@ -3202,7 +3202,7 @@
   "644": {
     "released": true,
     "shiny": true,
-    "shadow": false
+    "shadow": true
   },
   "645": {
     "released": true,
@@ -3352,12 +3352,12 @@
   "674": {
     "released": true,
     "shiny": true,
-    "shadow": false
+    "shadow": true
   },
   "675": {
     "released": true,
     "shiny": true,
-    "shadow": false
+    "shadow": true
   },
   "676": {
     "released": true,
@@ -3742,12 +3742,12 @@
   "753": {
     "released": true,
     "shiny": true,
-    "shadow": false
+    "shadow": true
   },
   "754": {
     "released": true,
     "shiny": true,
-    "shadow": false
+    "shadow": true
   },
   "755": {
     "released": true,
@@ -3812,22 +3812,22 @@
   "767": {
     "released": true,
     "shiny": true,
-    "shadow": false
+    "shadow": true
   },
   "768": {
     "released": true,
     "shiny": true,
-    "shadow": false
+    "shadow": true
   },
   "769": {
     "released": true,
     "shiny": true,
-    "shadow": false
+    "shadow": true
   },
   "770": {
     "released": true,
     "shiny": true,
-    "shadow": false
+    "shadow": true
   },
   "775": {
     "released": true,
@@ -4771,7 +4771,7 @@
   },
   "1011": {
     "released": true,
-    "shiny": false,
+    "shiny": true,
     "shadow": false
   },
   "1012": {
@@ -4786,7 +4786,7 @@
   },
   "1019": {
     "released": true,
-    "shiny": false,
+    "shiny": true,
     "shadow": false
   }
 }
