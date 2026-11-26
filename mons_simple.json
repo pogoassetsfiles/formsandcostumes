@@ -3829,6 +3829,11 @@
     "shiny": true,
     "shadow": true
   },
+  "771": {
+    "released": true,
+    "shiny": false,
+    "shadow": false
+  },
   "774": {
     "released": true,
     "shiny": false,
